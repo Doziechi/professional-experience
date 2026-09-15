@@ -142,7 +142,7 @@ Responsible for CCTV installation, maintenance, monitoring, troubleshooting, and
 * Surveillance monitoring
 * Incident investigation
 * Technical documentation
-
+  
 ---
 
 ## 5. Data Analysis Team Member
